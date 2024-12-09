@@ -1,5 +1,3 @@
-package cs61b;
-
 public class HelloNumber {
     public static void main(String[] args){
         int x = 0;
